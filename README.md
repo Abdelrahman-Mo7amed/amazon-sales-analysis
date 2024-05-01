@@ -24,6 +24,13 @@ The dataset consists of electronics sales data from Amazon, including the follow
 | split       | Split attribute                                     |
 | month       | Month of the sale                                    |
 
+### Note:
+Due to the large size of the dataset, it is not included in this repository. However, you can access the dataset on Kaggle using the following link:
+
+[Amazon Electronics Sales Dataset on Kaggle](https://www.kaggle.com/datasets/edusanketdk/electronics)
+
+Please download the dataset from the Kaggle link above and place it in the appropriate directory to replicate the analysis.
+
 #### Key Insights:
 - **Sales Trends:** Analysis reveals that the year 2015 had the highest overall sales, with January being the best month.
 - **Popular Brands:** Top-selling brands include Bose, Logitech, and Sony, while brands like EINCAR and DURAGADGET had comparatively lower sales.
