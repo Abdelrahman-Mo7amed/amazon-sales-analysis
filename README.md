@@ -1,6 +1,8 @@
   <div align="center">
     <h1><strong>Amazon Electronics Sales Analysis</strong></h1>
   </div>
+  
+![Amazon Electronics Sales]([https://example.com/amazon_sales_image.png](https://cdn.vox-cdn.com/thumbor/s7-kTe85akra1LluOyd_s_2d9Ss=/0x0:2040x1360/1400x788/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg))
 
 ### Description:
 Welcome to the Amazon Electronics Sales Analysis project repository! This repository contains a detailed analysis of electronics sales data from Amazon, aimed at understanding sales trends, popular products, and consumer behavior over time. The analysis covers various aspects, including product sales by brand, category, and year, as well as ratings distribution and sales performance by month.
