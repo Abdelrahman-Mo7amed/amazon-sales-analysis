@@ -38,6 +38,10 @@ Based on the analysis insights, the following recommendations are suggested:
 
 This repository serves as a valuable resource for understanding Amazon electronics sales dynamics and can aid in strategic decision-making for businesses operating in the electronics retail sector.
 
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+> "Data will talk to you if you're willing to listen." - Jim Bergeson
+
+---
+
+> "Artificial intelligence is the new electricity." - Andrew Ng
 
 This dataset is available for use. For more details, refer to the data source [here](https://www.kaggle.com/datasets/edusanketdk/electronics).
