@@ -1,5 +1,6 @@
-<div align="center"><h1><strong>Amazon Electronics Sales Analysis</strong></h1>
-</div>
+  <div align="center">
+    <h1><strong>Amazon Electronics Sales Analysis</strong></h1>
+  </div>
 
 ### Description:
 Welcome to the Amazon Electronics Sales Analysis project repository! This repository contains a detailed analysis of electronics sales data from Amazon, aimed at understanding sales trends, popular products, and consumer behavior over time. The analysis covers various aspects, including product sales by brand, category, and year, as well as ratings distribution and sales performance by month.
@@ -34,3 +35,7 @@ Based on the analysis insights, the following recommendations are suggested:
 3. **Seasonal Promotions:** Leverage sales trends to plan targeted promotions, especially during peak months like January.
 
 This repository serves as a valuable resource for understanding Amazon electronics sales dynamics and can aid in strategic decision-making for businesses operating in the electronics retail sector.
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+This dataset is available for use. For more details, refer to the data source [here](https://www.kaggle.com/datasets/edusanketdk/electronics).
