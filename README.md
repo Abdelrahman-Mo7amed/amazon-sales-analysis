@@ -1,5 +1,4 @@
-<div align="center">
-  <h1><strong>Amazon Electronics Sales Analysis</strong></h1>
+<div align="center"><h1><strong>Amazon Electronics Sales Analysis</strong></h1>
 </div>
 
 ### Description:
