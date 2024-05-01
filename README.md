@@ -4,6 +4,11 @@
   
 ![Amazon Electronics Sales](https://cdn.vox-cdn.com/thumbor/s7-kTe85akra1LluOyd_s_2d9Ss=/0x0:2040x1360/1400x788/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg)
 
+### Dashboard:
+Explore the interactive dashboard created for the Amazon Electronics Sales Analysis project! Gain deeper insights into the sales trends, popular products, and consumer behavior through intuitive visualizations. Navigate through various charts and graphs to uncover valuable patterns and make informed decisions. Access the dashboard [here](https://tinyurl.com/amazon-analysis-dashboard) and enhance your understanding of Amazon electronics sales dynamics.
+
+[Amazon Electronics Analysis Dashboard](https://tinyurl.com/amazon-analysis-dashboard)
+
 ### Description:
 Welcome to the Amazon Electronics Sales Analysis project repository! This repository contains a detailed analysis of electronics sales data from Amazon, aimed at understanding sales trends, popular products, and consumer behavior over time. The analysis covers various aspects, including product sales by brand, category, and year, as well as ratings distribution and sales performance by month.
 
